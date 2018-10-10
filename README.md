@@ -8,17 +8,18 @@ Synopsis of this application was to extract data from the social media platform 
 ### Prerequisites
 The following libraries must be installed in your machine:
 
-1. Install Elastic Search
+1. Install [Python] (https://www.python.org/downloads/) 
+2. Install Elastic Search
 ```
   pip install elasticsearch
 ```
 
-2. Install Tweepy
+3. Install Tweepy
 ```
 pip install tweepy
 ```
 
-3. Install Text Blob
+4. Install Text Blob
 ```
 pip install -U textblob
 ```
