@@ -18,18 +18,18 @@ python get-pip.py
 ```
 pip install jupyter
 ```
-
 4. Install Elastic Search
 ```
   pip install elasticsearch
 ```
-
 5. Install Tweepy
 ```
 pip install tweepy
 ```
-
 6. Install Text Blob
 ```
 pip install -U textblob
 ```
+### Authors
+- Yash Modi
+- Yash Desai
