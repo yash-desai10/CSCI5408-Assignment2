@@ -8,8 +8,8 @@ Synopsis of this application was to extract data from the social media platform 
 ### Prerequisites
 The following libraries must be installed in your machine:
 
-1. Install Tweepy
+1. Install Elastic Search
 ```
-  pip install tweepy
+  pip install elasticsearch
 ```
 
