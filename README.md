@@ -9,7 +9,7 @@ Synopsis of this application was to extract data from the social media platform 
 The following libraries must be installed in your machine:
 
 1. Install Tweepy
-...
+```
   pip install tweepy
-...
+```
 
