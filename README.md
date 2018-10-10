@@ -13,3 +13,13 @@ The following libraries must be installed in your machine:
   pip install elasticsearch
 ```
 
+2. Install Tweepy
+```
+pip install tweepy
+```
+
+3. Install Text Blob
+```
+pip install -U textblob
+```
+
