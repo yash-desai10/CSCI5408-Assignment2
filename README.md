@@ -1,4 +1,4 @@
-# CSCI5408-Assignment2
+# Project Title
 **Perform Sentimental analysis on extracted tweets and loading it on 
 Elastic Search.**
 
